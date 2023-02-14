@@ -1,0 +1,14 @@
+.navbar {
+    font-size: 18px;
+    font-weight: bold;
+    opacity: 0.5;
+    color: grey;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link .active {
+    color: black;
+}
